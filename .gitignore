@@ -1,0 +1,10 @@
+# Keep the working directory private by default
+*
+
+# Files that may be committed
+!.gitignore
+!README.md
+
+# Public GitHub Pages site
+!docs/
+!docs/**
